@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 public class DAOUtility {
     
-    public static final int TERMID_FA25 = 1;
+    public static final int TERMID_SP26 = 1;
     
     public static String getResultSetAsJson(ResultSet rs) {
         
